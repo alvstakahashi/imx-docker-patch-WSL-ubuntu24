@@ -15,6 +15,8 @@ imx-docker直下にコピーして使用してください。
 sudo useradd user3
 sudo usermod -aG sudo user3
 以降user1でログインして実行。
+docker buildしたimageを以下にアップしています。
+https://hub.docker.com/repository/docker/alvstakahashi/myimx2404/general
 2025.1.4 追記
 
 note+の記事のためのパッチをgithubに公開しています。
